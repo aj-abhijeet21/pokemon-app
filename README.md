@@ -1,3 +1,11 @@
+# Simple Pokedex App developed with React
+
+This app utilizes the pokemon API from https://pokeapi.co/api/v2/pokemon
+
+It fetches all available pokemons 20 at a time, and you can load more Pokemons "on-demand" (i.e. Lazy Loading)
+
+It also contains some basic CSS, and react-modal to show detailed information about a Pokemon
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
