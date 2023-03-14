@@ -6,6 +6,13 @@ It fetches all available pokemons 20 at a time, and you can load more Pokemons "
 
 It also contains some basic CSS, and react-modal to show detailed information about a Pokemon
 
+# Screenshots:
+
+<p align="center">
+  <img alt="home" src="https://user-images.githubusercontent.com/40262579/225108435-078869f1-9984-4433-a9f4-ebd9c4dc4564.png" width="45%">
+  <img alt="modal" src="https://user-images.githubusercontent.com/40262579/225108451-5d1d8bbc-b229-4c65-9908-aa9c4108c07e.png" width="45%">
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
